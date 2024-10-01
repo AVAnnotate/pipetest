@@ -1,21 +1,108 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "AVAnnotate",
+    "title": "PipeTest",
+    "description": "PipeTest",
+    "language": "en",
+    "slug": "pipetest",
+    "creator": "SteveMarvin",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Day of the week",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Topic",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "_uncategorized_",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Type",
+          "color": "#99AFF2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tanya",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Ben",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Sara",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tuesday",
+          "category": "Day of the week"
+        },
+        {
+          "tag": "Thursday",
+          "category": "Day of the week"
+        },
+        {
+          "tag": "Wednesday",
+          "category": "Day of the week"
+        },
+        {
+          "tag": "Bob",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Film direction",
+          "category": "Topic"
+        },
+        {
+          "tag": "Film flaws",
+          "category": "Topic"
+        },
+        {
+          "tag": "Tanya",
+          "category": "Topic"
+        },
+        {
+          "tag": "Car horn",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Distortion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Shouting",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Singing",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        }
+      ]
+    },
+    "created_at": "2024-10-01T14:22:48.798Z",
+    "updated_at": "2024-10-01T14:22:48.798Z"
   }
 }
